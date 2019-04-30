@@ -89,6 +89,7 @@ private:
     Qt3DCore::QEntity *m_cuboidEntity;
     Qt3DCore::QEntity *m_planeEntity;
     Qt3DCore::QEntity *m_sphereEntity;
+    int mTempInt;
 };
 
 #endif // SCENEMODIFIER_H
